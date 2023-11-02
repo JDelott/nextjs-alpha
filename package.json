@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "ai": "^2.2.20",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "@babel/preset-react": "^7.22.15",
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^14.0.1"
+  }
+}
