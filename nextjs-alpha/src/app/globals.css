@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 
-*html,
+html,
 body {
   padding: 0;
   margin: 0;
@@ -18,4 +18,15 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+  height: 100vh; /* Optionally, set a specific height for the container */
+}
+.image-wrapper {
+  border-radius: 20px;
+  overflow: hidden;
 }
